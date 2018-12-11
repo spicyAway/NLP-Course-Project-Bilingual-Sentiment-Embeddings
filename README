@@ -1,0 +1,11 @@
+README
+* This is the README file for COMP550 Final Project F2018 prepared by
+* Shanqing Zhu (shanqing.zhu@mail.mcgill.ca)
+* Huiwen You (huiwen.you@mail.mcgill.ca)
+
+* Note: the embeddings are too large, so we did not provide the source here.
+* please find all the implementations in the script folder
+	* for french dataset extraction and preprocessing - ./french-dataset-extraction
+	* for other dataset preparation and manipulation - ./preprocess
+	* for baseline - artetxe_fr.py
+	* for ML - ml_fr.py
